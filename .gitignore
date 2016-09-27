@@ -1,0 +1,10 @@
+*.iml
+*.ipr
+*.iws
+.idea/
+target/
+.settings/
+.classpath
+**/WEB-INF/classes/**
+/bin/
+
