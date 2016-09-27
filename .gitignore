@@ -8,3 +8,4 @@ target/
 **/WEB-INF/classes/**
 /bin/
 
+target
